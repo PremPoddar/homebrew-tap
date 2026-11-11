@@ -11,4 +11,4 @@ brew install --cask prempoddar/tap/brewlight
 ```
 
 Update it with `brew upgrade --cask brewlight`. More at
-[prempoddar.github.io/Brewlight](https://prempoddar.github.io/Brewlight/).
+[prempoddar.is-a.dev/Brewlight](https://prempoddar.is-a.dev/Brewlight/).

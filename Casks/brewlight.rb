@@ -1,6 +1,6 @@
 cask "brewlight" do
-  version "1.2.0"
-  sha256 "ae8d110f2fc1f5f448da5e2ca6943f975f54d57567fc597a9241989777c66e57"
+  version "1.3.0"
+  sha256 "7222dd8ce5b54034068ac9721739f45604fbd87568c97810a33608bbf287ed76"
 
   url "https://github.com/PremPoddar/Brewlight/releases/download/v#{version}/Brewlight.dmg"
   name "Brewlight"
